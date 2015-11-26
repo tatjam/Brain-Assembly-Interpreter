@@ -32,7 +32,7 @@ Output is only one line and limited to 24 characters (Quite a lot actually!)
 ·How is this useful?
 ---
 I believe it has no use. :P
-I just made it to test my skills, this can be used tough as a basecode for other Brain**** interpreters, remember, assembly is the step before language machine... 
+I just made it to test my skills, this can be used tough as a basecode for other Brain**** interpreters, remember, assembly is the step after machine code 
 
 
 Cheers!
