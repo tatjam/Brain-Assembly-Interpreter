@@ -4,7 +4,7 @@
 
 # ·Complete:
 ---
-Every BF should run on thsi interpreter, it allows nested brackets (Experimental :P)
+Every BF program should run on this interpreter, it allows nested brackets (Experimental :P)
 Scheweigi's assembly simulator is quite slow (On purpose), so even a simple program will take time to run
 
 # ·How to use:
